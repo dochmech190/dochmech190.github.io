@@ -1,2 +1,3 @@
-# dochmech190.github.io
-Felix Nico A. Moraleda
+# Gaming Courses
+## By:dochmech190 & e6ft
+### rng.inc
